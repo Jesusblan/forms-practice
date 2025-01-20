@@ -35,12 +35,12 @@ img.background{
     font-weight: 500;
 }
 .forms{
-    width: 500px;
+    width: 540px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 30px;
-    justify-content: center;
+    gap: 25px;
+    justify-content: left;
 }
 .singTitle{
     margin-left: 50px;
