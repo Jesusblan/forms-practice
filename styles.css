@@ -53,8 +53,11 @@ label{
     font-size: 12px;
 }
 .submit{
-    margin: 40px;
-    margin-left: 160px;
+    margin-top: 15px;
+    height: 249px;
+    background-color:  rgb(241, 241, 241);
+    padding-top: 20px;
+    padding-left: 160px;
     font-size: 12px;
     align-items: center;
 }
@@ -65,6 +68,6 @@ label{
     height: 45px;
     font-size: 15px;
     border-radius: 16px;
-    background-color: rgba(121, 103, 103, 0.734);
+    background-color: rgba(125, 118, 118, 0.618);
     font-weight: 350;
 }
