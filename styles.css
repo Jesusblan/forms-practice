@@ -35,15 +35,20 @@ img.background{
     font-weight: 500;
 }
 .forms{
-    width: 540px;
+    width: 350px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 25px;
-    justify-content: left;
+    gap: 10px;
+    justify-content: space-between;
+    box-shadow: aqua;
 }
 .singTitle{
     margin-left: 50px;
     font-size: 20px;
     font-weight: 500    ;
+}
+label{
+    display: flex;
+    font-size: 12px;
 }
