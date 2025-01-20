@@ -53,10 +53,13 @@ label{
     font-size: 12px;
 }
 .submit{
-    margin: 50px;
+    margin: 40px;
+    margin-left: 160px;
     font-size: 12px;
+    align-items: center;
 }
 .submitButton{
+    margin-left: 10px;
     color: white;
     width: 160px;
     height: 45px;
