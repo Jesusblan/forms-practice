@@ -35,13 +35,13 @@ img.background{
     font-weight: 500;
 }
 .forms{
-    width: 350px;
+    width: 400px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: space-between;
-    box-shadow: aqua;
+    margin-left: 50px;
 }
 .singTitle{
     margin-left: 50px;
@@ -51,4 +51,16 @@ img.background{
 label{
     display: flex;
     font-size: 12px;
+}
+.submit{
+    margin: 50px;
+}
+.submitButton{
+    color: white;
+    width: 160px;
+    height: 45px;
+    font-size: 15px;
+    border-radius: 16px;
+    background-color: rgba(121, 103, 103, 0.734);
+    font-weight: 350;
 }
